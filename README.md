@@ -23,8 +23,8 @@ I will appreciate any review to improve.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/Hope-Akpan1/KodeCamp-Bootstrap-Task)
+- Live Site URL:(https://hope-akpan1.github.io/KodeCamp-Bootstrap-Task/)
 
 ## My process
 I used my phone to code.
