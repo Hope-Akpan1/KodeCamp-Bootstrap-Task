@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lora', serif;
+}
+
+.navbar-brand {
+  font-weight: 500;
+}
+
+.fas {
+  font-weight: 600 !important;
+}
+
+.hero {
+  background-color: #E8F3F6;
+  padding: 20px 0;
+}
+
+.bg-0 {
+  background-image: url('https://i.ibb.co/gSCRTkB/beauty-woman-skin-care-beautiful-female-hand-touch-8-B5-MWG9-1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-1 {
+  background-image: url('https://i.ibb.co/WccjW8q/the-interior-has-a-armchair-on-empty-white-wall-background-3d-rendering-1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.welcome {
+  background-color: rgba(232, 233, 234, 0.5);
+  height: 600px;
+  width: 400px;
+}
+
+.sign-up-text {
+  font-size: 10px !important;
+}
+
+.bg-2 {
+  background-image: url('https://i.ibb.co/P402kLH/bg-2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.product{
+  background-color: rgba(228, 244, 244, 1);
+}
+
+.contact {
+  background-color: #CCCCCC;
+}
+
+.about {
+  background-color: rgba(236, 246, 244, 0.6);
+}
+
+/* swiper */
+.swiper {
+  width: 100%;
+  height: auto;
+}
